@@ -86,6 +86,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buseesher&layout=compact&theme=tokyonight)](https://github.com/buseesher)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=buseesher&theme=tokyonight)](https://git.io/streak-stats)
+
 ## 👀 Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/buseesher/count.svg)
 
