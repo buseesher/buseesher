@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buse Eşer</h1>
-<p align="center"><b>🌱 Passionate Mechatronics Stdent</b></p>
+<p align="center"><b>🌱 Passionate Mechatronics Student</b></p>
 
-👩‍💻 I'm a Mechatronics engineering student at Yildiz Technical University
+👩‍💻 I'm a Mechatronics engineering student at Yildiz Technical University.
 
 🔭 I’m currently working on artificial intelligence, programming and application development.
 
@@ -80,5 +80,13 @@
   <!-- Kotlin -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
 </p>
+
+## 📊 GitHub Analytics 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buseesher&show_icons=true&theme=tokyonight&rank_icon=percentile)](https://github.com/buseesher)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buseesher&layout=compact&theme=tokyonight)](https://github.com/buseesher)
+
+## 👀 Visitor count
+![Visitor Count](https://profile-counter.glitch.me/buseesher/count.svg)
 
 
