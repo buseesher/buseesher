@@ -12,10 +12,17 @@
 ## 🔗 Connect with me
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/buseeser/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:buseesher@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40"/>
+  </a>
 </p>
+
 
 ## 🔧 Skills and Related Tools
 
